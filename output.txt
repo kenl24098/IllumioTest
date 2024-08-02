@@ -1,0 +1,12 @@
+Tag Counts:
+
+Tag.             Count
+sv_P1 1
+Untagged 1
+SV_P3 1
+
+Port/Protocol Combination Counts:
+
+Port.   Protocol. Count
+31 17 1
+23 6 1
